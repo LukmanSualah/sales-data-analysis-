@@ -34,5 +34,5 @@ Data Analyst
 
 ---
 
-If you want, I can also make it **more advanced (portfolio-level)** or add a **business storytelling version that sounds like a real job project**.
+
 
