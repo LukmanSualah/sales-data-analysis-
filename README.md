@@ -2,29 +2,28 @@
 
 ---
 
-# 📊 Sales Data Analysis (Excel Project)
+ Sales Data Analysis (Excel Project)
 
-## 📌 Project Overview
+ Project Overview
 
 This project analyzes sales data using Excel to uncover key business insights. It focuses on understanding sales performance, profit trends, and product performance through data cleaning, pivot tables, and visual charts.
 
 The analysis helps identify top-performing products, regional sales distribution, and overall business performance to support better decision-making.
 
-## 🛠️ Tools Used
+ Tools Used
 
 * Microsoft Excel
 * Pivot Tables
 * Charts & Dashboards
 * Data Cleaning Functions
 
-## 📈 Key Insights
+ Key Insights
 
 * Identified top-selling products and categories
 * Analyzed sales and profit trends over time
 * Compared regional performance
 * Created interactive summary dashboard using Excel visuals
-
-## 👨‍💻 Author
+ Author
 
 **Lukman Sualah**
 Data Analyst
